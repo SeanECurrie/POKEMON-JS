@@ -21,10 +21,10 @@ body {
 
 #card {
     position: relative;
-    
+    margin: 30px auto;
     width: 100%;
     padding: 30px 20px;
-    box-shadow: 0 3px 30px white;
+    box-shadow: 0 3px 30px silver;
     border-radius: 30px;
 }
 #card img {
@@ -82,14 +82,14 @@ body {
     display: block;
     padding: 15px 60px;
     font-size: 30px;
-    background-color:  #e10c0c;
+    background-color:  blue;
     color: black;
     position: relative;
     margin: 30px auto;
     border: none;
     border-radius: 50px;
     letter-spacing: 2px;
-    box-shadow: 0 3px 20px white;
+    box-shadow: 0 3px 20px gold;
 }
 
 .header {
@@ -106,7 +106,7 @@ body {
     background-color: blue;
     width: 740px;
     position: relative;
-    box-shadow: 0 3px 20px white;
+    box-shadow: 0 3px 20px red;
     font-family: "Pokemon GB";
     font-size: 55px;
     
